@@ -150,7 +150,7 @@ The track generator uses **Catmull-Rom cubic splines** to construct realistic co
 | **`1`** | **Mugello** | Italy 🇮🇹 | `Medium` | 62 px | Massive 1.1km Tuscan straight, San Donato hairpin & Arrabbiata sweeps |
 | **`2`** | **Red Bull Ring** | Austria 🇦🇹 | `Very Hard` | 58 px | Steep uphill climb into sharp Remus hairpin & downhill chicane |
 | **`3`** | **Silverstone** | United Kingdom 🇬🇧 | `Hard` | 64 px | High-speed Maggots, Becketts & Chapel into Wellington straight |
-| **`4`** | **TT Circuit Assen** | Netherlands 🇳🇱 | `Hard` | 60 px | "Cathedral of Speed": rapid direction switches & Geert Timmer chicane |
+| **`4`** | **Custom Circuit** | Custom 🛠️ | `Extreme` | 52 px | Custom user-drawn Grand Prix: crest straight, technical double-hooks & infield loops |
 | **`5`** | **Sachsenring** | Germany 🇩🇪 | `Extreme` | 56 px | Technical mountain rollercoaster, continuous Omega carousel & Waterfall |
 | **`6`** | **Phillip Island** | Australia 🇦🇺 | `Hard` | 64 px | Seaside high-speed sweepers: Doohan Corner & Stoner sweepers |
 | **`7`** | **COTA (Austin)** | United States 🇺🇸 | `Extreme` | 58 px | 41m uphill climb into blind Turn 1 hairpin, rapid snake esses |
